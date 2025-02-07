@@ -1,3 +1,6 @@
+//ATIVIDADE COMUNICAÇÃO SERIAL RP2040
+//LUIRYS DO NASCIMENTO SILVA
+
 #include <stdlib.h>
 #include "pico/stdlib.h"
 #include "hardware/i2c.h"
